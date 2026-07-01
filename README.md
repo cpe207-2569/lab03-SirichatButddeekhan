@@ -12,4 +12,4 @@
 
 - ชื่อ-สกุล:ศิริชาติ บุตรดีขันธ์
 - รหัสนักศึกษา:680610720
-- <strong>GITHUB PAGE URL : https://cpe207-2569.github.io/lab03-SirichatButddeekhan/</strong>
+- <strong>GITHUB PAGE URL :https://cpe207-2569.github.io/lab03-SirichatButddeekhan/ </strong>
